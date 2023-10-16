@@ -33,6 +33,12 @@ export default function App() {
       <div className="h-screen flex text-7xl font-bold tracking-tight items-center justify-center">
         <h1>Scroll to top</h1>
       </div>
+      <div className="h-screen flex text-7xl font-bold tracking-tight items-center justify-center">
+        <h1>Scroll to top</h1>
+      </div>
+      <div className="h-screen flex text-7xl font-bold tracking-tight items-center justify-center">
+        <h1>Scroll to top</h1>
+      </div>
     </div>
   );
 }
