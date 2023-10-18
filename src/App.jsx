@@ -1,4 +1,4 @@
-import ToTopButton from "./components/toTopButton";
+import ToTopButton from "./components/ToTopButton"
 import Lenis from "@studio-freight/lenis";
 import { useEffect, useState } from "react";
 
